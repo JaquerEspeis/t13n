@@ -9,3 +9,5 @@ Taller de corte y confección para ajustar las tecnologías del norte a la reali
 :gear: [Made with CC](https://hosted.weblate.org/projects/madewithcc/translation/es/) (en revisión de estilo)
 
 :white_check_mark: [Creative Commons](https://www.transifex.com/nkinkade/CC/language/es/)
+
+:white_check_mark: [Tor](https://www.transifex.com/js-tor/js-tor-documentation/language/es/)
