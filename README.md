@@ -1,4 +1,4 @@
-# Tropicalización (_tropical_)
+# Tropicalización (_t13n_)
 
 Taller de corte y confección para ajustar las tecnologías del norte a la realidad del sur
 
